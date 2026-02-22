@@ -15,3 +15,6 @@ venv/
 # Jupyter / VS Code artifacts
 .virtual_documents/
 .ipynb_checkpoints/
+
+# Data
+2016_Building_Energy_Benchmarking.csv
